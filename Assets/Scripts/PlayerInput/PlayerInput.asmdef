@@ -1,0 +1,17 @@
+{
+    "name": "PlayerInput",
+    "rootNamespace": "DeeppTest.PlayerInput",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:eb4ff61f405c61344bc60383d886ccf7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

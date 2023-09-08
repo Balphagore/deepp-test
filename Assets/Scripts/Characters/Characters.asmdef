@@ -1,0 +1,19 @@
+{
+    "name": "Characters",
+    "rootNamespace": "DeeppTest.Characters",
+    "references": [
+        "GUID:eb4ff61f405c61344bc60383d886ccf7",
+        "GUID:26b82b16e973a4041ade6c3fc1f5c5f5",
+        "GUID:14dcd825894141d4f90148cfde4d6c4d",
+        "GUID:bb650f1055f8acb44bc3f634a7feebfb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

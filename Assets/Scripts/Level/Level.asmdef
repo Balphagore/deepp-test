@@ -1,0 +1,16 @@
+{
+    "name": "Level",
+    "rootNamespace": "DeeppTest.Level",
+    "references": [
+        "GUID:f133c917a02499d4aa52af0f63cb7a6d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
